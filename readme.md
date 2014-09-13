@@ -4,17 +4,17 @@ Demo/files from the Living, Breathing Style Guides session at Code(her) Conferen
 
 ## Demo
 
-### Running Middleman
-
 `git clone`
 
 `cd` to the repo
 
 If you don't have bundler, `gem install bundler`
 
+Bundler manages your ruby dependencies
+
 `bundle install`
 
-`bundle exec middleman`
+This installs Hologram and Sass into your project.
 
 ### Running Grunt
 
@@ -24,7 +24,7 @@ run `grunt`
 
 
 #### Resources
-- [Middleman](http://middlemanapp.com/)
+- [Bundler](http://bundler.io/)
 - [Grunt](http://gruntjs.com/)
 - [Hologram](https://github.com/trulia/hologram)
 - [Grunt Hologram](https://github.com/jchild3rs/grunt-hologram)
