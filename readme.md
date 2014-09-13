@@ -2,6 +2,8 @@
 
 Demo/files from the Living, Breathing Style Guides session at Code(her) Conference 2014.
 
+[View my slides here!](https://slides.com/allypalanzi/codeherconf)
+
 ## Demo
 
 `git clone`
@@ -26,6 +28,12 @@ This installs Hologram and Sass into your project.
 in another terminal tab, `cd` to the demo directory
 
 run `grunt`
+
+
+#### Must reads
+- [Style Guide Roundup](http://welchcanavan.com/styleguide-roundup/)
+- [Front End Style Guide](http://24ways.org/2011/front-end-style-guides/)
+- [Creating a Style Guide](http://alistapart.com/article/creating-style-guides)
 
 
 #### Resources
