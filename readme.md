@@ -1,5 +1,6 @@
-Living Style Guides
--------------------
+# Living Style Guides
+
+Demo/files from the Living, Breathing Style Guides session at Code(her) Conference 2014.
 
 ## Demo
 
@@ -23,7 +24,7 @@ run `grunt`
 
 
 #### Resources
-- (Middleman)[http://middlemanapp.com/]
-- (Grunt)[http://gruntjs.com/
-- (Hologram)[https://github.com/trulia/hologram]
-- (Grunt Hologram)[https://github.com/jchild3rs/grunt-hologram]
+- [Middleman](http://middlemanapp.com/)
+- [Grunt](http://gruntjs.com/)
+- [Hologram](https://github.com/trulia/hologram)
+- [Grunt Hologram](https://github.com/jchild3rs/grunt-hologram)
