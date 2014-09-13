@@ -13,7 +13,7 @@
 2. Type `node -v` into your terminal.
 3. If a version number is returned, you already have Node installed, so you can jump to step 5.
 4. If you get an error, go to the [Node website](http://nodejs.org/) and download the latest version.
-5. run `npm install`
+5. run `npm init`
 6. install grunt with `npm install grunt --save-dev`
 7. install grunt hologram with `npm install grunt-hologram --save-dev`
 8. install grunt watch with `npm install grunt-contrib-watch --save-dev`
