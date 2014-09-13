@@ -2,7 +2,7 @@
 
 ## Configure Hologram
 
-1. `cd` to where you want Hologrma
+1. `cd` to where you want Hologram
 2. `gem install hologram`
 3. or add `gem "hologram"` to your `Gemfile` and run `bundle install`
 4. run `hologram init`
