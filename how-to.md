@@ -21,7 +21,8 @@
 
 Here's an example:
 
-```module.exports = function(grunt) {
+```
+module.exports = function(grunt) {
 
   grunt.initConfig({
     pkg: grunt.file.readJSON('package.json'),
@@ -75,4 +76,5 @@ Here's an example:
   grunt.loadNpmTasks('grunt-hologram');
   grunt.registerTask('default', ['watch']);
 
-};```
+};
+```
