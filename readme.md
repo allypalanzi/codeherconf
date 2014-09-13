@@ -4,6 +4,8 @@ Demo/files from the Living, Breathing Style Guides session at Code(her) Conferen
 
 [View my slides here!](https://slides.com/allypalanzi/codeherconf)
 
+[@mylifeasalllly](http://twitter.com/mylifeasalllly)
+
 ## Demo
 
 `git clone`
