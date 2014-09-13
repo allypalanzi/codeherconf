@@ -35,8 +35,9 @@ module.exports = function(grunt) {
       hologram: {
         files: [
           'hologram_config.yml',
-          'app/scss/*',
-          'doc_assets/_sg-scss/*'
+          'app/scss/*.scss',
+          'doc_assets/_sg-scss/*.scss',
+          'doc_assets/*.html'
         ],
         tasks: ["hologram"]
       },
