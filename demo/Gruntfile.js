@@ -1,4 +1,3 @@
-
 module.exports = function(grunt) {
 
   grunt.initConfig({
@@ -16,8 +15,9 @@ module.exports = function(grunt) {
       dist: {
         files: {
           // Project Scss
-          'css/*' : 'scss/*'
+          'app/css/styles.css' : 'app/scss/styles.scss',
           // Styleguide Scss
+          'docs/sg-css/sg-styles.css' : 'doc_assets/_sg-scss/sg-styles.scss'
         }
       }
     },
@@ -26,15 +26,17 @@ module.exports = function(grunt) {
 
       css: {
         files: [
-          'scss/*.scss'
+          'app/scss/*.scss',
+          'doc_assets/_sg-scss/*.scss'
           ],
         tasks: ['sass']
       },
 
       hologram: {
         files: [
-          'scss/*',
-          'doc_assets/*'
+          'hologram_config.yml',
+          'app/scss/*',
+          'doc_assets/_sg-scss/*'
         ],
         tasks: ["hologram"]
       },

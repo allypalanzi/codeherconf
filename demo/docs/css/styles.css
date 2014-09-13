@@ -1,0 +1,38 @@
+/*doc
+---
+title: Typography
+name: Typography
+category: Typography
+---
+
+Here are some Typography styles. Hellllo!
+
+<h1>Header style</h1>
+```<h1>Header style</h1>```
+
+<h2>Header Two style</h2>
+```<h2>Header Two style</h2>```
+
+<h3>Header Two style</h3>
+```<h3>Header Three style</h3>```
+*/
+h1 {
+  font-size: 3em; }
+
+h2 {
+  font-size: 2em;
+  color: pink; }
+
+h3 {
+  font-size: 1.5em; }
+
+/*doc
+---
+title: Body
+name: Body
+category: Basics
+---
+
+Here are some body styles. Hellllo!
+
+*/
